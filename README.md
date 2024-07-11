@@ -1,4 +1,4 @@
-<img alt="sagarshrestha visiting card" src="https://github.com/sagarshrestha975/sagarshrestha975/blob/main/2119e194-5472-4ada-bd1b-334a337938c1.jpg" >
+<img alt="sagarshrestha visiting card" width="100%" src="https://github.com/sagarshrestha975/sagarshrestha975/blob/main/2119e194-5472-4ada-bd1b-334a337938c1.jpg" >
 
 
 <h1 align="center">Hi 👋, I'm Sagar Shrestha</h1>
