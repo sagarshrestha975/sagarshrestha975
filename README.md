@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Sagar Shrestha</h1>
 <h3 align="center">A passionate Backend developer from kathmandu,Nepal.</h3>
-
+<img alt="sagarshrestha visiting card" src="https://media.licdn.com/dms/image/D4D16AQF6LZ9PgqsYcA/profile-displaybackgroundimage-shrink_350_1400/0/1709272110025?e=1726099200&v=beta&t=_N8uraapVejdw9g_00mVjCpFErsT1XpCxFdT8CNcOis" >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarshrestha975" alt="sagarshrestha975" /></a> </p>
 
 - 🌱 I’m currently learning **Next js.**
