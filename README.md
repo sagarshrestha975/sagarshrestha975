@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarshrestha975" alt="sagarshrestha975" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Next js.**
 
-- 👨‍💻 All of my projects are available at [sagarshrestha975.com.np](sagarshrestha975.com.np)
+- 👨‍💻 All of my projects are available at [sagarshrestha975.com.np.](sagarshrestha975.com.np.)
 
-- 📫 How to reach me **sagarshrestha975@gmail.com**
+- 💬 Ask me about **Web Development And Mobile Application.**
+
+- 📫 How to reach me **sagarshrestha975@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
